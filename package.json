@@ -1,0 +1,17 @@
+{
+  "name": "jekt",
+  "version": "1.0.0",
+  "description": "Get to work, quicker",
+  "bin": {
+    "jekt": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gotdibbs",
+  "license": "MIT",
+  "dependencies": {
+    "opn": "^5.1.0"
+  }
+}
